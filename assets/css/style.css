@@ -290,7 +290,9 @@ a:hover {
         Header
 ============================================================ */
 .header-section {
-  margin: 55px 0 20px; }
+  margin: 106px 0 20px;
+	/*margin: 55px 0 20px; */
+}
   @media (min-width: 768px) and (max-width: 991px) {
     .header-section img {
       width: 150px; } }
@@ -310,8 +312,8 @@ a:hover {
     margin-bottom: 60px; }
     .middle-section .section-content h1 {
       font-family: "Libre Baskerville";
-      font-size: 72px;
-      line-height: 48px;
+      font-size: 60px;
+      line-height: 20px;
       letter-spacing: 2px;
       color: #0e0404;
       margin-bottom: 20px; }
@@ -322,9 +324,9 @@ a:hover {
           line-height: 80px; } }
     .middle-section .section-content .sub-text {
       font-family: 'Handlee', cursive;
-      font-size: 24px;
-      line-height: 48px;
-      letter-spacing: 1.5px;
+      font-size: 18px;
+      line-height: 20px;
+      letter-spacing: 0.5px;
       color: #6a6a6a; }
 
   .middle-section .section-caption .single-caption{
